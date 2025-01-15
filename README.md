@@ -21,7 +21,7 @@ This repository contains a Python-based application that leverages the Phi frame
 1. Clone the repository:
    ```bash
    git clone https://github.com/AkashR-16/Financial-Agent.git
-   cd your-repo-name
+   cd Financial-Agent
    ```
 
 2. Create a virtual environment and activate it:
